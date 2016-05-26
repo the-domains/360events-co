@@ -4,17 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 360events.co The Virtual Audition Walk 360
-datePublished: '2016-05-26T03:42:19.401Z'
-dateModified: '2016-05-26T03:41:49.669Z'
+description: ''
+datePublished: '2016-05-26T03:52:57.539Z'
+dateModified: '2016-05-26T03:46:31.996Z'
 title: The Virtual Audition Walk 360
 author:
-  - name: ''
+  - name: 360events.co
     url: ''
+sourcePath: _posts/2016-05-26-the-virtual-audition-walk-360.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-26-the-virtual-audition-walk-360.md
 url: the-virtual-audition-walk-360/index.html
 _type: WebPage
 
