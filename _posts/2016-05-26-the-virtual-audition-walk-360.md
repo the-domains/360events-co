@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-26T03:52:57.539Z'
-dateModified: '2016-05-26T03:46:31.996Z'
+datePublished: '2016-05-26T21:29:49.948Z'
+dateModified: '2016-05-26T03:52:58.541Z'
 title: The Virtual Audition Walk 360
 author:
   - name: 360events.co
